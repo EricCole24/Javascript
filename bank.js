@@ -65,6 +65,7 @@ console.log(customer1.email)
 customer1.phoneNumber = "33000"
 console.log(customer1.phone)
 console.log("done")
+console.log("ok")
 
 /*constructor(acNumber,balance,cusName,email,phone){
     this.acNumber = acNumber;
